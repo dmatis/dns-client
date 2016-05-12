@@ -5,7 +5,7 @@
 ## To Start:
 
 0. Download entire project
-1. From the command line run the make file
+1. Type *make* in the command line to run the provided Makefile
 
 ## To Run:
 
